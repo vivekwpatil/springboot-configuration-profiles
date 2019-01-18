@@ -1,0 +1,4 @@
+outserver:
+  host: "http://jsonplaceholder.typicode.com/posts"
+  timeout: 100
+
